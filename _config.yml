@@ -81,7 +81,7 @@ content:
           It was possible thanks to encoder emulation, cam profile and cycling positionning.
 
       - layout: left
-        title: Integrated robotic application with tracking features 
+        title: Integrated robot
         # link: https://www.youtube.com/watch?v=VJN8IgHODj4
         # link_text: Machine presentation
         additional_links:
@@ -94,7 +94,7 @@ content:
           Robot is controlled by the PLC and fully synchronized with the rest of the machine.
           Gripper follows the height of vertical conveyor while still placing bags.
       - layout: left
-        title: Profile cutting and machining centers
+        title: CNC Machine
         additional_links:
           - title:  BDM
             icon: fa fa-youtube
