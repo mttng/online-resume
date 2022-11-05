@@ -73,10 +73,13 @@ content:
           - title:  Can Collar
             icon: fa fa-youtube
             url: https://www.br-automation.com/en/products/mechatronic-systems/acopostrak/
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Integration of innovative linear product transport system. <mark>AcoposTrak</mark>
+          Machine is fully flexible, It can group cans by 2, 3, 4 and more with almost no change over.
+          It was possible thanks to encoder emulation, cam profile and cycling positionning.
+
       - layout: left
         title: Integrated robotic application with tracking features 
         # link: https://www.youtube.com/watch?v=VJN8IgHODj4
@@ -85,20 +88,22 @@ content:
           - title:  Cetec
             icon: fa fa-youtube
             url: https://www.youtube.com/watch?v=xE7J6ICQw88
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Robot is controlled by the PLC and fully synchronized with the rest of the machine.
+          Gripper follows the height of vertical conveyor while still placing bags.
       - layout: left
         title: Profile cutting and machining centers
         additional_links:
           - title:  BDM
             icon: fa fa-youtube
             url: https://www.youtube.com/watch?v=T4fu1nRZKFs
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Machine cuts and machines aluminium or plastic profiles. CNC engine is integrated inside the main CPU.
+          Customer could get rid of an expensive and non modular dedicated CNC controller.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
