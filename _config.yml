@@ -9,8 +9,8 @@ version: 2
 name: Mathieu Tanguy
 title: Mecatronic Engineer
 email: mathieu@tanguym.eu
-website: > 
-  [Online resume](https://mttng.github.io/online-resume/)
+address: 11 rue Saint Michel, 44260 Savenay FRANCE
+# website: https://mttng.github.io/online-resume/
 
 # Dark Mode (true/false/never)
 darkmode: never
