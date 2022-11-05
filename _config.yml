@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Mathieu, I'm a industrial automation engineer. I live with my wife and kids near Nantes in France.
+  Hello, my name is Mathieu, I'm a industrial automation engineer. I live with my wife and kids near Nantes in France.<br>
   Since 4 years, I work as a technical office manager which consists of managing a team made up of support & application engineers.
   My main goals are to plan & prioritize technical actions, develop soft and technical skills of all my team's member.
   Although my position give me more responsabilities and administrative work, I'm still involved in complex strategic customer projects.
@@ -89,7 +89,16 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+      - layout: left
+        title: Profile cutting and machining centers
+        additional_links:
+          - title:  BDM
+            icon: fa fa-youtube
+            url: https://www.youtube.com/watch?v=T4fu1nRZKFs
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
