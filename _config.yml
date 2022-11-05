@@ -71,7 +71,7 @@ content:
             icon: fas fa-globe
             url: https://www.br-automation.com/en/products/mechatronic-systems/acopostrak/
           - title:  Can Collar
-            icon: fas fa-youtube
+            icon: fa-brands fa-youtube
             url: https://www.br-automation.com/en/products/mechatronic-systems/acopostrak/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
