@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mathieu and I'm a industrial automation engineer. 
+  Hello, my name is Mathieu, I'm a industrial automation engineer. I live with my wife and kids near Nantes in France.
   Since 4 years, I work as a technical office manager which consists of managing a team made up of support & application engineers.
   My main goals are to plan & prioritize technical actions, develop soft and technical skills of all my team's member.
   Although my position give me more responsabilities and administrative work, I'm still involved in complex strategic customer projects.
@@ -88,8 +88,8 @@ content:
         title: B&R Automation
         link: br-automation.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: February 2018 - Present
+        sub_title: Technical Office Manager
+        caption: Feb 2018 - Present (Nantes)
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -98,8 +98,8 @@ content:
         title: B&R Automation
         link: br-automation.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: February 2010 - Febbruary 2018
+        sub_title: Application Engineer - Paris Nantes
+        caption: Feb 2010 - Feb 2018 (Paris & Nantes)
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -108,8 +108,8 @@ content:
         title: B&R Automation
         link: br-automation.com
         # link_text: boringcompany.com
-        sub_title: Engineering Camp
-        caption: September 2009 - January 2010
+        sub_title: Training program
+        caption: Sept 2009 - Jan 2010 (Eggelsberg, Austria)
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
