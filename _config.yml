@@ -9,14 +9,15 @@ version: 2
 name: Mathieu Tanguy
 title: Mecatronic Engineer
 email: mathieu@tanguym.eu
-website: https://mttng.github.io/online-resume/
+address: 11 rue Saint Michel, 44260 Savenay FRANCE
+# website: https://mttng.github.io/online-resume/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-#twitter_username: facespics
-#github_username:  sproogen
+# twitter_username: facespics
+# github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -31,9 +32,12 @@ linkedin_username: mttng
 
 # Additional icon links
 additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+- title: Website
+  icon: fas fa-globe
+  url: https://cv.tanguym.eu/
+- title: Pdf Download
+  icon: far fa-file-pdf
+  url: https://cv.tanguym.eu/pdf/mathieu_tanguy_resume.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,72 +52,167 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hello, my name is Mathieu. I live with my wife and kids near Nantes in France.<br>
+  I'm a mecatronic engineer with over 14 years experience in industrial automation.
+  <br>
+  Since 4 years, I work as a technical office manager for B&R Automation.
+  <br>
+  I like to work on challenging projects, alone, or as a team. I don't give up so easily.
+  I'm creatif and able to listen or understand needs which brings good working relationships with customers or colleagues.
+  <br>
+  Thanks to my experience working for an innovative supplier, I have a good overview on almost every domain of industrial automation.
+  Even though I'm most skilled in:
+  <br>
+  <mark>Software architecture</mark> <mark>Motion control</mark> <mark>CNC</mark> <mark>Robotic</mark> <mark>IEC 61131-3</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Can selection for high speed machine
-        link: https://www.youtube.com/watch?v=VJN8IgHODj4
-        link_text: Machine presentation
+      - layout: left
+        title: Linear transport system
+        # link: https://www.youtube.com/watch?v=VJN8IgHODj4
+        # link_text: Machine presentation
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-globe
+          - title:  Acopostrak
+            icon: fas fa-globe
             url: https://www.br-automation.com/en/products/mechatronic-systems/acopostrak/
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          - title:  Can Collar
+            icon: fa fa-youtube
+            url: https://www.youtube.com/watch?v=VJN8IgHODj4
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          Machine is fully <mark>flexible</mark> and <mark>modular</mark>, it groups different can sizes by 2, 3, 4 and more with almost no change over.
+          In addition to magnetic conveyor called <mark>Acopostrak</mark>, I used advanced <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positionning.
+          I was involved at every project stage, pre-sales, prototype, until serial production.
+          For this challenging project I had the chance to be in close cooperation with R&D and other services at headquarter.
+          
+      - layout: left
+        title: Integrated robot
+        # link: https://www.youtube.com/watch?v=VJN8IgHODj4
+        # link_text: Machine presentation
+        additional_links:
+          - title:  Cetec
+            icon: fa fa-youtube
+            url: https://www.youtube.com/watch?v=xE7J6ICQw88
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          <mark>Comau Robot</mark> is controlled by the PLC and fully synchronized with the rest of the machine.
+          Gripper follows the height of vertical conveyor while still placing bags thanks to a tracking feature.
+          On top of this application, I implemented <mark>PackML</mark>. Project handover was then made easier.
+      - layout: left
+        title: CNC Machine
+        additional_links:
+          - title:  BDM
+            icon: fa fa-youtube
+            url: https://www.youtube.com/watch?v=T4fu1nRZKFs
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Machine cuts and machines aluminium or plastic profiles.
+          <mark>CNC</mark> engine is integrated inside the main CPU that controls more than 30 another numerical axes.
+          Customer could get rid of an expensive and non modular dedicated CNC controller.
+          During this first project as application engineer, I improve my hard skills as well as my soft skills through a very high demanding customer coming from full CNC contoller to an integrated CNC kernel.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: B&R Automation
+        link: br-automation.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Technical Office Manager
+        caption: Feb 2018 - Present (Nantes)
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            After many years as application engineer, I got promoted as technical office manager.
+            I lead up to 6 local application & support engineers in Nantes offices.
+            My missions are to plan & prioritize technical actions while making sure my team members have enough skills to succeed.
+            Even with this new responsability, I'm still involved technically in complex strategic customer projects.
 
+      - layout: left
+        title: B&R Automation
+        link: br-automation.com
+        # link_text: boringcompany.com
+        sub_title: Application Engineer
+        caption: Feb 2010 - Feb 2018 (Paris & Nantes)
+        description: | # this will include new lines to allow paragraphs
+          This position has been challenging for me as the spectrum is large:
+          - Remote and on-site technical customer support.
+          - Assist customer on his project from prototype phase to serial production.
+          - Hold customer and internal training.
+          - Participate to pre-sales project (presentation, hardware architecture, etc...).
+
+          I spend 2 years in Paris then I moved to Nantes office.
+
+      - layout: left
+        title: B&R Automation
+        link: https://www.br-automation.com/en/career/working-at-br/engineering-camp/
+        link_text: Engineering Camp
+        sub_title: Training program
+        caption: Sept 2009 - Jan 2010 (Eggelsberg, Austria)
+        description: | # this will include new lines to allow paragraphs
+          B&R Automation is one of the most innovative company in industrial automation.
+          Before joining french subsidiary, I attended an engineering camp among talented young people coming from all over the world.
+          I took the opportunity to perfect my knowledge in industrial automation while improving my english.
+      - layout: left
+        title: TECNAL S.A.
+        link: https://www.tecnal.fr/en/home/
+        # link_text: boringcompany.com
+        sub_title: Automation design office
+        caption: Sept 2008 - Aug 2009 (Niort)
+        description: | # this will include new lines to allow paragraphs
+          Tecnal is a specialist in dairy and cheese equipment. I worked as automation & adjuster technician.
+          I was mainly on the field, either in France or abroad, learning on special machines in process industry.
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: University of Poitiers
+        caption: 2005 - 2008
+        sub_title: MSc in Industrial Automation & mecatronic
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          During my first year at University of Poitiers I deppened my basics skills.
+          At that time, our teachers were mostly coming from research department called [PPrime](https://pprime.fr/en/home-pprime/). 
+          They were really dynamic and enthusiastic about mecatronic and especially skilled in medical robotic.
+          I got really passionate too, that's why I specialized in mecatronic for the two last year of my master degree.
+          Funny fact, I became teacher for a few days of my old teacher.
+      - layout: left
+        title: University of Lorient
+        caption: 2003 - 2005
+        sub_title: BTEC in Industrial Maintenance
+        description: | # this will include new lines to allow paragraphs
+          I learn basis on almost every domain of the industry as maintenance is a very large topic.
+          I did an internship in an Automotive company called PSA Peugeot Citroen.
+          My goal was to make preventive maintenance sheets as I was part of TPM service.
+          But everytime I could, I was near machines, looking at the robot asking so many questions.
+      - layout: left
+        title: High School A.R. Lesage in Vannes
+        caption: 2003
+        sub_title: BD In Mechanical Engineering
+        description: | # this will include new lines to allow paragraphs
+          During my time at high school, I specialized in mecanics.
+          I had theoretical courses such as mechanical drawing , kinematic, electrical, etc..
+          And practical courses where I could use conventional milling, CNC and molding machines for the first time.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      I like to spend time with my family and friends, it is a good way to switch off.
+      <br>
+      During my personal spare time, I have interests in domotic and IoT that brings me some basis knowledges on several domains like: 
+      <br>
+      <mark>Linux</mark> <mark>HTML</mark> <mark>Javascript</mark> <mark>Php</mark> <mark>Docker</mark> <mark>MQTT</mark> <mark>Git</mark> <mark>SQL</mark> 
+      <br>
+      Which are becoming more and more popular in industrial automation.
+      
+      But I'm not staying in front of my computer all the time. I like to go running and sometimes mountain biking.
+      As I'm not far from the ocean, SUP is an activity I do like during summer.
+      My passion for music brings me regurlarly to concert and music festival.
+      I used to be a football player for many years, still passionate but not practicing anymore.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
