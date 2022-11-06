@@ -159,10 +159,9 @@ content:
         sub_title: MSc in Industrial Automation & mecatronic
         description: | # this will include new lines to allow paragraphs
           During my first year at University of Poitiers I learnt most deppen our basics skills.
-          At that time, our teacher where mostly from research department ![PPrime](https://pprime.fr/en/home-pprime/). 
-          They were really dynamic and enthusiastic about mecatronic and especially in robotic.
-          I got really passionate too, that's why I decided to specialize in mecatronic for the two last year of my master degree.
-          At that time, our teacher where mostly from research department PPrime.
+          At that time, our teachers were mostly from research department called [PPrime](https://pprime.fr/en/home-pprime/). 
+          They were really dynamic and enthusiastic about mecatronic and especially skilled medical robotic.
+          I got really passionate too, that's why I specialized in mecatronic for the two last year of my master degree.
           Funny fact, I became teacher for a few days of my old teacher.
       - layout: left
         title: University of Lorient
@@ -171,7 +170,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           This two year gave me the opportunity to learn the basis on almost every domain of the industry as maintenance is a very large topic.
           I had the opportunity to do an internship in an Automotive company called PSA Peugeot Citroen.
-          My goal was to make preventive maintenance sheet as I was part of TPM service.
+          My goal was to make preventive maintenance sheets as I was part of TPM service.
           But everytime I could, I was near machines, looking at the robot and asking so many questions.
       - layout: left
         title: High School A.R. Lesage in Vannes
@@ -180,18 +179,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at high school, I specialized in mecanics.
           What I really liked, courses was separated in two parts, theoretical courses surch as Mechanical drawing , Kinematic, Electrical, etc..
-          And practical courses where I had the chance to use conventional milling, CNC and molding machine for the first time.
+          And practical courses where I could use conventional milling, CNC and molding machines for the first time.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      During my spare time, I also Have interests in networks and software engineering. I'm a passion for domotic and IoT which brings me some basis knowledge on several domain like:
+      During my spare time, I also Have interests in networks and software engineering. I have a passion for domotic and IoT which brings me some basis knowledge on several domain like:
       - Linux
       - Javascript
       - Php 
       - Docker
       - MQTT
       - ...
-      But I'm not staying in front of my computer all the time. I do a lot of sport such as running and mountain bike.
+      But I'm not staying in front of my computer all the time. I do a lot of sport such as running and mountain biking.
       As I'm not far from the ocean, Surf and SUP are some activities I do like during summer. 
       I used to be a football player for many years, still passionate but not pacticing anymore.
 
