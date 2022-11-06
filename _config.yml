@@ -82,10 +82,10 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Thanks to this innovative technology called <mark>Acopostrak</mark>, Machine is fully <mark>flexible</mark> and <mark>modular</mark>A. it can group different can sizes by 2, 3, 4 and more with almost no change over.
-          It was possible thanks to <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positionning.
-          I was involved at every project stages, pre-sales, prototype in, until serial production.
-          For this challenging project I had the chance to be in close cooperation with R&D & other services at headquarter.
+          Thanks to this innovative technology called <mark>Acopostrak</mark>, Machine is fully <mark>flexible</mark> and <mark>modular</mark> . it can group different can sizes by 2, 3, 4 and more with almost no change over.
+          I used advanced <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positionning.
+          I was involved at every project stages, pre-sales, prototype, until serial production.
+          For this challenging project I had the chance to be in close cooperation with R&D and other services at headquarter.
           
       - layout: left
         title: Integrated robot
@@ -113,7 +113,7 @@ content:
           Machine cuts and machines aluminium or plastic profiles.
           <mark>CNC</mark> engine is integrated inside the main CPU that controls more than 30 another numerical axes.
           Customer could get rid of an expensive and non modular dedicated CNC controller.
-          During this first project as application engineer, I improve my technical skills as well as my soft skills with a very high demanding customer coming from full CNC contoller to an integrated CNC kernel.
+          During this first project as application engineer, I improve my technical skills as well as my soft skills through a very high demanding customer coming from full CNC contoller to an integrated CNC kernel.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -126,7 +126,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             After many years as application engineer, I got promoted as technical office manager.
             I leaded up to 6 local application & support engineers in Nantes offices.
-            My missions are to plan & prioritize technical actions while making making sure all my colleague have enough skills to succeed.
+            My missions are to plan & prioritize technical actions while making sure my team members have enough skills to succeed.
             Even with this new responsability, I'm still involved technically in strategic customer project.
 
       - layout: left
@@ -151,7 +151,7 @@ content:
         caption: Sept 2009 - Jan 2010 (Eggelsberg, Austria)
         description: | # this will include new lines to allow paragraphs
           B&R Automation is one of the most innovative company in industrial automation.
-          Before joining french subsidiary, I attended an engineering camp with talented young people coming from all over the world.
+          Before joining french subsidiary, I attended an engineering camp among other talented young people coming from all over the world.
           I took the opportunity to perfect my knowledge in industrial automation while improving my english.
       - layout: left
         title: TECNAL S.A.
@@ -174,7 +174,7 @@ content:
           During my first year at University of Poitiers I learnt more deppen our basics skills.
           At that time, our teachers were mostly coming from research department called [PPrime](https://pprime.fr/en/home-pprime/). 
           They were really dynamic and enthusiastic about mecatronic and especially skilled in medical robotic.
-          I got really passionate too, that's why I specialized in <mark>mecatronic</mark> for the two last year of my master degree.
+          I got really passionate too, that's why I specialized in mecatronic for the two last year of my master degree.
           Funny fact, I became teacher for a few days of my old teacher.
       - layout: left
         title: University of Lorient
@@ -199,7 +199,7 @@ content:
       During my spare time, I also Have interests in networks and software engineering. 
       I have a passion for domotic and IoT which brings me some basis knowledge on several domain like: 
       <br>
-      <mark>Linux<mark> <mark>HTML</mark> <mark>Javascript</mark> <mark>Php</mark> <mark>Docker</mark> <mark>MQTT</mark> <mark>Git</mark> <mark>SQL</mark> 
+      <mark>Linux</mark> <mark>HTML</mark> <mark>Javascript</mark> <mark>Php</mark> <mark>Docker</mark> <mark>MQTT</mark> <mark>Git</mark> <mark>SQL</mark> 
       <br>
       Which is becoming more and more popular in industrial automation.
       
