@@ -198,6 +198,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       I like to spend time with my family and friends, this is a good way to switch off.
+      <br>
       During my personal spare time, I also have interests in networks and software engineering. 
       I have a passion for domotic and IoT which brings me some basis knowledges on several domains like: 
       <br>
