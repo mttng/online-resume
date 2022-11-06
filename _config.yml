@@ -63,7 +63,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Can selection for high-speed machine
+        title: Flexible transport system
         # link: https://www.youtube.com/watch?v=VJN8IgHODj4
         # link_text: Machine presentation
         additional_links:
@@ -76,10 +76,11 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Integration of innovative linear product transport system. <mark>AcoposTrak</mark>
-          Machine is fully flexible, It can group cans by 2, 3, 4 and more with almost no change over.
+          Thanks to this new type of technology, Machine is fully flexible. it can group cans by 2, 3, 4 and more with almost no change over.
           It was possible thanks to encoder emulation, cam profile and cycling positionning.
-
+          I was involved from the begining in pre-sales until now where the machine is now in serial production.
+          For this innovative project I had the chance to be in close cooperation with R&D & other services.
+          
       - layout: left
         title: Integrated robot
         # link: https://www.youtube.com/watch?v=VJN8IgHODj4
@@ -104,6 +105,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Machine cuts and machines aluminium or plastic profiles. CNC engine is integrated inside the main CPU.
           Customer could get rid of an expensive and non modular dedicated CNC controller.
+          This was my first project as application engineer
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -121,67 +123,77 @@ content:
         title: B&R Automation
         link: br-automation.com
         # link_text: boringcompany.com
-        sub_title: Application Engineer - Paris Nantes
+        sub_title: Application Engineer
         caption: Feb 2010 - Feb 2018 (Paris & Nantes)
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
       - layout: left
         title: B&R Automation
-        link: br-automation.com
-        # link_text: boringcompany.com
+        link: https://www.br-automation.com/en/career/working-at-br/engineering-camp/
+        link_text: Engineering Camp
         sub_title: Training program
         caption: Sept 2009 - Jan 2010 (Eggelsberg, Austria)
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+      - layout: left
+        title: TECNAL S.A.
+        link: Tecnal.fr
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: Sept 2008 - Aug 2009 (Niort)
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: University of Poitiers
+        caption: 2005 - 2008
+        sub_title: MSc in Industrial Automation & mecatronic
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my first year at University of Poitiers I learnt most deppen our basics skills.
+          At that time, our teacher where mostly from research department *PPrime*. 
+          They were really dynamic and enthusiastic about mecatronic and especially in robotic.
+          I got really passionate too, that's why I decided to specialize in mecatronic for the two last year of my master degree.
+          At that time, our teacher where mostly from research department PPrime.
+          Funny fact, I became teacher for a few days of my old teacher.
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: University of Lorient
+        caption: 2003 - 2005
+        sub_title: BTEC in Industrial Maintenance
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          This two year gave me the opportunity to learn the basis on almost every domain of the industry as maintenance is a very large topic.
+          I had the opportunity to do an internship in an Automotive company called PSA Peugeot Citroen.
+          My goal was to make preventive maintenance sheet as I was part of TPM service.
+          But everytime I could, I was near machines, looking at the robot and asking so many questions.
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: High School A.R. Lesage in Vannes
+        caption: 2003
+        sub_title: BD In Mechanical Engineering
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my time at high school, I specialized in mecanics.
+          What I really liked, courses was separated in two parts, theoretical courses surch as Mechanical drawing , Kinematic, Electrical, etc..
+          And practical courses where I had the chance to use conventional milling, CNC and molding machine for the first time.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      During my spare time, I also Have interests in networks and software engineering. I'm a passion for domotic and IoT which brings me some basis knowledge on several domain like:
+      - Linux
+      - Javascript
+      - Php 
+      - Docker
+      - MQTT
+      - ...
+      But I'm not staying in front of my computer all the time. I do a lot of sport such as running and mountain bike.
+      As I'm not far from the ocean, Surf and SUP are some activities I do like during summer. 
+      I used to be a football player for many years, still passionate but not pacticing anymore.
 
 # Footer
 footer_show_references: false
