@@ -118,7 +118,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             After many years as application engineer, I got promoted as technical office manager.
             I leaded up to 7 local application & support engineers in Nantes offices.
-            My main mission is to plan & prioritize technical actions while making making sure all my colleague have enough skills to succeed.
+            My main missions are to plan & prioritize technical actions while making making sure all my colleague have enough skills to succeed.
             Even with this new responsability, I'm still involved technically in strategic customer project.
 
       - layout: left
@@ -128,7 +128,7 @@ content:
         sub_title: Application Engineer
         caption: Feb 2010 - Feb 2018 (Paris & Nantes)
         description: | # this will include new lines to allow paragraphs
-          This position has been for me very challenging as the spectrum is large:
+          This position has been challenging for me as the spectrum is large:
           - Remote and on-site technical customer support.
           - Assist customer on his project from prototype phase to serial production.
           - Hold customer and internal training.
