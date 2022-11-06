@@ -54,6 +54,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Mathieu. I live with my wife and kids near Nantes in France.<br>
   I'm a mecatronic engineer with over 14 years experience in industrial automation.
+  <br>
   Since 4 years, I work as a technical office manager for B&R Automation.
   <br>
   I like to work on challenging projects, alone, or as a team. I don't give up so easily.
