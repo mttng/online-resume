@@ -163,9 +163,9 @@ content:
         caption: 2005 - 2008
         sub_title: MSc in Industrial Automation & mecatronic
         description: | # this will include new lines to allow paragraphs
-          During my first year at University of Poitiers I learnt most deppen our basics skills.
-          At that time, our teachers were mostly from research department called [PPrime](https://pprime.fr/en/home-pprime/). 
-          They were really dynamic and enthusiastic about mecatronic and especially skilled medical robotic.
+          During my first year at University of Poitiers I learnt more deppen our basics skills.
+          At that time, our teachers were mostly coming from research department called [PPrime](https://pprime.fr/en/home-pprime/). 
+          They were really dynamic and enthusiastic about mecatronic and especially skilled in medical robotic.
           I got really passionate too, that's why I specialized in mecatronic for the two last year of my master degree.
           Funny fact, I became teacher for a few days of my old teacher.
       - layout: left
@@ -173,10 +173,10 @@ content:
         caption: 2003 - 2005
         sub_title: BTEC in Industrial Maintenance
         description: | # this will include new lines to allow paragraphs
-          This two year gave me the opportunity to learn the basis on almost every domain of the industry as maintenance is a very large topic.
-          I had the opportunity to do an internship in an Automotive company called PSA Peugeot Citroen.
+          I learn basis on almost every domain of the industry as maintenance is a very large topic.
+          I did an internship in an Automotive company called PSA Peugeot Citroen.
           My goal was to make preventive maintenance sheets as I was part of TPM service.
-          But everytime I could, I was near machines, looking at the robot and asking so many questions.
+          But everytime I could, I was near machines, looking at the robot asking so many questions.
       - layout: left
         title: High School A.R. Lesage in Vannes
         caption: 2003
