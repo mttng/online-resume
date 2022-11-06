@@ -196,8 +196,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       During my spare time, I also Have interests in networks and software engineering. 
-      I have a passion for domotic and IoT which brings me some basis knowledge on several domain like <mark>Linux<mark>,<mark>Javascript</mark>, <mark>Php </mark>
-      <mark>Docker</mark>, <mark>MQTT</mark>, <mark>Git</mark>, <mark>HTML</mark>. Which is becoming more and more popular in industrial automation.
+      I have a passion for domotic and IoT which brings me some basis knowledge on several domain like: 
+      <br>
+      <mark>Linux<mark> <mark>HTML</mark> <mark>Javascript</mark> <mark>Php</mark> <mark>Docker</mark> <mark>MQTT</mark> <mark>Git</mark> <mark>SQL</mark> 
+      <br>
+      Which is becoming more and more popular in industrial automation.
       
       But I'm not staying in front of my computer all the time. I do a lot of sport such as running and mountain biking.
       As I'm not far from the ocean, Surf and SUP are some activities I do like during summer. 
