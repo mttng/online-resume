@@ -116,7 +116,7 @@ content:
         sub_title: Technical Office Manager
         caption: Feb 2018 - Present (Nantes)
         description: | # this will include new lines to allow paragraphs
-            After many year as application engineer, I got promoted as technical office manager.
+            After many years as application engineer, I got promoted as technical office manager.
             I leaded up to 7 local application & support engineers in Nantes offices.
             My main mission is to plan & prioritize technical actions while making making sure all my colleague have enough skills to succeed.
             Even with this new responsability, I'm still involved technically in strategic customer project.
@@ -129,11 +129,10 @@ content:
         caption: Feb 2010 - Feb 2018 (Paris & Nantes)
         description: | # this will include new lines to allow paragraphs
           This position has been for me very challenging as the spectrum is large:
-          - technically supporting customer remotly and on site.
-          - Assisting customer on his project from prototype phase to serial production.
-          - Holding customer and internal training.
-          - Software architecture and analysis.
-          - Définir des architectures matérielles.
+          - Remote and on-site technical customer support.
+          - Assist customer on his project from prototype phase to serial production.
+          - Hold customer and internal training.
+          - Software & hardware architecture.
           - Participating to pre-sales project.
 
       - layout: left
@@ -156,8 +155,6 @@ content:
           Tecnal is a specialist in dairy and cheese equipment. I worked as automation & adjuster technician.
           I was mainly on the field, either in France or abroad, learning on special machines mainly in process industry.
           
-          
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
