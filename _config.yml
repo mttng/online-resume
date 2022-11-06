@@ -55,10 +55,13 @@ about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Mathieu. I live with my wife and kids near Nantes in France.<br>
   I'm a mecatronic engineer with over 14 years experience in industrial automation.
   Since 4 years, I work as a technical office manager for B&R Automation.
+  <br>
   I like to work on challenging projects, alone, or as a team. I don't give up so easily.
   I'm creatif and able to listen and understand needs which brings good working relationships with customers or colleagues.
   Thanks to my experience working for an innovative supplier, I have a good overview on almost every domain of industrial automation.
-  Even though I used many technologies, I'm most skilled in: <mark>Software architecture</mark>, <mark>Motion control</mark>, <mark>CNC</mark>, <mark>Robotic</mark>, <mark>IEC 61131-3</mark>.
+  Even though I used many technologies, I'm most skilled in:
+  <br>
+  <mark>Software architecture</mark> <mark>Motion control</mark> <mark>CNC</mark> <mark>Robotic</mark> <mark>IEC 61131-3</mark>
 
 content:
   - title: Projects # Title for the section
