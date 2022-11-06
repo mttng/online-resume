@@ -52,18 +52,20 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Mathieu, I'm a industrial automation engineer. I live with my wife and kids near Nantes in France.<br>
-  Since 4 years, I work as a technical office manager which consists of managing a team made up of support & application engineers.
-  My main goals are to plan & prioritize technical actions, develop soft and technical skills of all my team's member.
-  Although my position give me more responsabilities and administrative work, I'm still involved in complex strategic customer projects.
-  I am most skilled in: <mark>Software architecture</mark>, <mark>Motion control</mark>, <mark>CNC</mark>, <mark>Robtotic</mark>.
+  Hello, my name is Mathieu. I live with my wife and kids near Nantes in France.<br>
+  I'm a mecatronic engineer with over 14 years experience in industrial automation.
+  Since 4 years, I work as a technical office manager for B&R Automation.
+  I like to work on challenging projects, alone, or as a team. I don't give up so easily.
+  I'm creatif and able to listen and understand needs which brings good working relationships with customers or colleagues.
+  Thanks to my experience working for an innovative supplier, I have a good overview on almost every domain of industrial automation.
+  Even though I used many technologies, I'm most skilled in: <mark>Software architecture</mark>, <mark>Motion control</mark>, <mark>CNC</mark>, <mark>Robotic</mark>, <mark>IEC 61131-3</mark>.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Flexible transport system
+        title: Linear transport system
         # link: https://www.youtube.com/watch?v=VJN8IgHODj4
         # link_text: Machine presentation
         additional_links:
@@ -76,10 +78,10 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Thanks to this new type of technology, Machine is fully flexible. it can group cans by 2, 3, 4 and more with almost no change over.
-          It was possible thanks to encoder emulation, cam profile and cycling positionning.
-          I was involved from the begining in pre-sales until now where the machine is now in serial production.
-          For this innovative project I had the chance to be in close cooperation with R&D & other services.
+          Thanks to this innovative technology called <mark>Acopostrak</mark>, Machine is fully flexible. it can group different can sizes by 2, 3, 4 and more with almost no change over.
+          It was possible thanks to <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positionning.
+          I was involved at every project stages, pre-sales, prototype in, until serial production.
+          For this challenging project I had the chance to be in close cooperation with <mark>R&D</mark> & other services at headquarter.
           
       - layout: left
         title: Integrated robot
@@ -92,8 +94,9 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Robot is controlled by the PLC and fully synchronized with the rest of the machine.
-          Gripper follows the height of vertical conveyor while still placing bags.
+          <mark>Comau</mark> Robot is controlled by the PLC and fully synchronized with the rest of the machine.
+          Gripper follows the height of vertical conveyor while still placing bags thanks to a <mark>tracking</mark> feature.
+          On top of this application, I implemented <mark>PackML</mark>. Project handover was then made easier.
       - layout: left
         title: CNC Machine
         additional_links:
@@ -103,9 +106,9 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Machine cuts and machines aluminium or plastic profiles. CNC engine is integrated inside the main CPU.
+          Machine cuts and machines aluminium or plastic profiles. <mark>CNC</mark> engine is integrated inside the main CPU.
           Customer could get rid of an expensive and non modular dedicated CNC controller.
-          This was my first project as application engineer
+          This was my first project as application engineer.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -117,8 +120,8 @@ content:
         caption: Feb 2018 - Present (Nantes)
         description: | # this will include new lines to allow paragraphs
             After many years as application engineer, I got promoted as technical office manager.
-            I leaded up to 7 local application & support engineers in Nantes offices.
-            My main missions are to plan & prioritize technical actions while making making sure all my colleague have enough skills to succeed.
+            I leaded up to 6 local application & support engineers in Nantes offices.
+            My missions are to plan & prioritize technical actions while making making sure all my colleague have enough skills to succeed.
             Even with this new responsability, I'm still involved technically in strategic customer project.
 
       - layout: left
@@ -132,8 +135,8 @@ content:
           - Remote and on-site technical customer support.
           - Assist customer on his project from prototype phase to serial production.
           - Hold customer and internal training.
-          - Software & hardware architecture.
-          - Participating to pre-sales project.
+          - Participating to pre-sales project (presentation, hardware architecture, etc...).
+          I spend 2 years in Paris then I moved to Nantes office.
 
       - layout: left
         title: B&R Automation
@@ -142,8 +145,8 @@ content:
         sub_title: Training program
         caption: Sept 2009 - Jan 2010 (Eggelsberg, Austria)
         description: | # this will include new lines to allow paragraphs
-          These few months abroad was amazing. 
-          I was part of an engineering camp with talented young people comning from all over the world.
+          B&R Automation is one of the most innovative company in industrial automation.
+          Before joining french subsidiary, I attended an engineering camp with talented young people coming from all over the world.
           I took the opportunity to perfect my knowledge in industrial automation while improving my english.
       - layout: left
         title: TECNAL S.A.
@@ -153,7 +156,7 @@ content:
         caption: Sept 2008 - Aug 2009 (Niort)
         description: | # this will include new lines to allow paragraphs
           Tecnal is a specialist in dairy and cheese equipment. I worked as automation & adjuster technician.
-          I was mainly on the field, either in France or abroad, learning on special machines mainly in process industry.
+          I was mainly on the field, either in France or abroad, learning on special machines in process industry.
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -166,7 +169,7 @@ content:
           During my first year at University of Poitiers I learnt more deppen our basics skills.
           At that time, our teachers were mostly coming from research department called [PPrime](https://pprime.fr/en/home-pprime/). 
           They were really dynamic and enthusiastic about mecatronic and especially skilled in medical robotic.
-          I got really passionate too, that's why I specialized in mecatronic for the two last year of my master degree.
+          I got really passionate too, that's why I specialized in <mark>mecatronic</mark> for the two last year of my master degree.
           Funny fact, I became teacher for a few days of my old teacher.
       - layout: left
         title: University of Lorient
@@ -188,14 +191,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      During my spare time, I also Have interests in networks and software engineering. I have a passion for domotic and IoT which brings me some basis knowledge on several domain like:
-      - Linux
-      - Javascript
-      - Php 
-      - Docker
-      - MQTT
-      - Git
-      - ...
+      During my spare time, I also Have interests in networks and software engineering. 
+      I have a passion for domotic and IoT which brings me some basis knowledge on several domain like <mark>Linux<mark>,<mark>Javascript</mark>, <mark>Php </mark>
+      <mark>Docker</mark>, <mark>MQTT</mark>, <mark>Git</mark>, <mark>HTML</mark>. Which is becoming more and more popular in industrial automation.
       
       But I'm not staying in front of my computer all the time. I do a lot of sport such as running and mountain biking.
       As I'm not far from the ocean, Surf and SUP are some activities I do like during summer. 
