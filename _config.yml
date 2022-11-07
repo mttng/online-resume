@@ -85,7 +85,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Machine is fully <mark>flexible</mark> and <mark>modular</mark> . it can group different can sizes by 2, 3, 4 and more with almost no change over.
           On top of magnetic conveyor called <mark>Acopostrak</mark>, I used advanced <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positionning.
-          I was involved at every project stages, pre-sales, prototype, until serial production.
+          I was involved at every project stage, pre-sales, prototype, until serial production.
           For this challenging project I had the chance to be in close cooperation with R&D and other services at headquarter.
           
       - layout: left
@@ -114,7 +114,7 @@ content:
           Machine cuts and machines aluminium or plastic profiles.
           <mark>CNC</mark> engine is integrated inside the main CPU that controls more than 30 another numerical axes.
           Customer could get rid of an expensive and non modular dedicated CNC controller.
-          During this first project as application engineer, I improve my technical skills as well as my soft skills through a very high demanding customer coming from full CNC contoller to an integrated CNC kernel.
+          During this first project as application engineer, I improve my hard skills as well as my soft skills through a very high demanding customer coming from full CNC contoller to an integrated CNC kernel.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -126,9 +126,9 @@ content:
         caption: Feb 2018 - Present (Nantes)
         description: | # this will include new lines to allow paragraphs
             After many years as application engineer, I got promoted as technical office manager.
-            I leaded up to 6 local application & support engineers in Nantes offices.
+            I lead up to 6 local application & support engineers in Nantes offices.
             My missions are to plan & prioritize technical actions while making sure my team members have enough skills to succeed.
-            Even with this new responsability, I'm still involved technically in strategic customer project.
+            Even with this new responsability, I'm still involved technically in complex strategic customer projects.
 
       - layout: left
         title: B&R Automation
@@ -141,7 +141,8 @@ content:
           - Remote and on-site technical customer support.
           - Assist customer on his project from prototype phase to serial production.
           - Hold customer and internal training.
-          - Participating to pre-sales project (presentation, hardware architecture, etc...).
+          - Participate to pre-sales project (presentation, hardware architecture, etc...).
+
           I spend 2 years in Paris then I moved to Nantes office.
 
       - layout: left
@@ -172,7 +173,7 @@ content:
         caption: 2005 - 2008
         sub_title: MSc in Industrial Automation & mecatronic
         description: | # this will include new lines to allow paragraphs
-          During my first year at University of Poitiers I learnt more deppen our basics skills.
+          During my first year at University of Poitiers I deppened my basics skills.
           At that time, our teachers were mostly coming from research department called [PPrime](https://pprime.fr/en/home-pprime/). 
           They were really dynamic and enthusiastic about mecatronic and especially skilled in medical robotic.
           I got really passionate too, that's why I specialized in mecatronic for the two last year of my master degree.
@@ -197,7 +198,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I like to spend time with my family and friends, this is a good way to switch off.
+      I like to spend time with my family and friends, it is a good way to switch off.
       <br>
       During my personal spare time, I have interests in domotic and IoT that brings me some basis knowledges on several domains like: 
       <br>
@@ -207,7 +208,7 @@ content:
       
       But I'm not staying in front of my computer all the time. I like to go running and sometimes mountain biking.
       As I'm not far from the ocean, SUP is an activity I do like during summer.
-      I like also music that brings me regurlarly to concert and music festival.
+      My passion for music brings me regurlarly to concert and music festival.
       I used to be a football player for many years, still passionate but not practicing anymore.
 
 # Footer
