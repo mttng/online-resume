@@ -83,8 +83,8 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Thanks to this innovative technology called <mark>Acopostrak</mark>, Machine is fully <mark>flexible</mark> and <mark>modular</mark> . it can group different can sizes by 2, 3, 4 and more with almost no change over.
-          I used advanced <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positionning.
+          Machine is fully <mark>flexible</mark> and <mark>modular</mark> . it can group different can sizes by 2, 3, 4 and more with almost no change over.
+          On top of magnetic conveyor called <mark>Acopostrak</mark>, I used advanced <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positionning.
           I was involved at every project stages, pre-sales, prototype, until serial production.
           For this challenging project I had the chance to be in close cooperation with R&D and other services at headquarter.
           
@@ -199,8 +199,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       I like to spend time with my family and friends, this is a good way to switch off.
       <br>
-      During my personal spare time, I also have interests in networks and software engineering. 
-      I have a passion for domotic and IoT which brings me some basis knowledges on several domains like: 
+      During my personal spare time, I have interests in domotic and IoT that brings me some basis knowledges on several domains like: 
       <br>
       <mark>Linux</mark> <mark>HTML</mark> <mark>Javascript</mark> <mark>Php</mark> <mark>Docker</mark> <mark>MQTT</mark> <mark>Git</mark> <mark>SQL</mark> 
       <br>
