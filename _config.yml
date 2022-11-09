@@ -13,7 +13,7 @@ address: 11 rue Saint Michel, 44260 Savenay FRANCE
 # website: https://mttng.github.io/online-resume/
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 # twitter_username: facespics
@@ -34,10 +34,10 @@ linkedin_username: mttng
 additional_links:
 - title: Website
   icon: fas fa-globe
-  url: https://mttng.github.io/online-resume/
+  url: https://cv.tanguym.eu/
 - title: Pdf Download
-  icon: far fa-feather
-  url: https://lightcv.tanguym.eu
+  icon: far fa-file-pdf
+  url: https://cv.tanguym.eu/pdf/mathieu_tanguy_resume.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -79,12 +79,12 @@ content:
             url: https://www.br-automation.com/en/products/mechatronic-systems/acopostrak/
           - title:  Can Collar
             icon: fa fa-youtube
-            url: https://www.br-automation.com/en/products/mechatronic-systems/acopostrak/
+            url: https://www.youtube.com/watch?v=VJN8IgHODj4
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Machine is fully <mark>flexible</mark> and <mark>modular</mark> . it can group different can sizes by 2, 3, 4 and more with almost no change over.
-          On top of magnetic conveyor called <mark>Acopostrak</mark>, I used advanced <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positionning.
+          Machine is fully <mark>flexible</mark> and <mark>modular</mark>, it groups different can sizes by 2, 3, 4 and more with almost no change over.
+          In addition to magnetic conveyor called <mark>Acopostrak</mark>, I used advanced <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positionning.
           I was involved at every project stage, pre-sales, prototype, until serial production.
           For this challenging project I had the chance to be in close cooperation with R&D and other services at headquarter.
           
@@ -153,11 +153,11 @@ content:
         caption: Sept 2009 - Jan 2010 (Eggelsberg, Austria)
         description: | # this will include new lines to allow paragraphs
           B&R Automation is one of the most innovative company in industrial automation.
-          Before joining french subsidiary, I attended an engineering camp among other talented young people coming from all over the world.
+          Before joining french subsidiary, I attended an engineering camp among talented young people coming from all over the world.
           I took the opportunity to perfect my knowledge in industrial automation while improving my english.
       - layout: left
         title: TECNAL S.A.
-        link: Tecnal.fr
+        link: https://www.tecnal.fr/en/home/
         # link_text: boringcompany.com
         sub_title: Automation design office
         caption: Sept 2008 - Aug 2009 (Niort)
@@ -193,7 +193,7 @@ content:
         sub_title: BD In Mechanical Engineering
         description: | # this will include new lines to allow paragraphs
           During my time at high school, I specialized in mecanics.
-          I had theoretical courses surch as Mechanical drawing , Kinematic, Electrical, etc..
+          I had theoretical courses such as mechanical drawing , kinematic, electrical, etc..
           And practical courses where I could use conventional milling, CNC and molding machines for the first time.
   - title: A Little More About Me
     layout: text
