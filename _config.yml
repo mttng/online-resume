@@ -36,7 +36,7 @@ additional_links:
   icon: fas fa-feather
   url: https://lightcv.tanguym.eu
 - title: Full version
-  icon: fab fa-location-dot
+  icon: fas fa-location-dot
   url: https://www.google.fr/maps/place/11+Rue+Saint-Michel,+44260+Savenay/@47.3623008,-1.9445918,17z/data=!3m1!4b1!4m5!3m4!1s0x4805817a25b76c03:0x5767a922f0c11aae!8m2!3d47.3622972!4d-1.9424031
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
