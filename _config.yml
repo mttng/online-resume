@@ -32,10 +32,7 @@ linkedin_username: mttng
 
 # Additional icon links
 additional_links:
-- title: Website
-  icon: fas fa-globe
-  url: https://cv.tanguym.eu/
-- title: Pdf Download
+- title: Light version
   icon: fas fa-feather
   url: https://lightcv.tanguym.eu
 # - title: another link
