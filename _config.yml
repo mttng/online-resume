@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Mathieu Tanguy
-title: Mecatronic Engineer
+title: Mechatronics Engineer
 email: mathieu@tanguym.eu
 address: 11 rue Saint Michel, 44260 Savenay FRANCE
 # website: https://mttng.github.io/online-resume/
@@ -52,17 +52,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a mecatronic engineer with over 14 years experience in industrial automation.
+  I'm a mechatronics engineer with over 14 years' experience in industrial automation.
   <br>
   I like to work on challenging projects, independently, or as a team member.
   <br>
-  Being curious and creative help me to push my limits everyday.
+  Being curious and creative help me to push my limits every day.
   My willingness to help and understand customer or colleague needs brings good working relationships based on trust.
   <br>
-  My position as technical office manager enforces my links with sales department and help me to improve soft skills like scheduling, priorisation or strategic decision-making.
+  My position as technical office manager enforces my links with sales department and help me to improve soft skills like scheduling, prioritization, or strategic decision-making.
   <br>
-  Thanks to my experience working for an innovative supplier, I developped knowledges on many solutions in different industries of industrial automation.
-  Even though I'm most skilled in:
+  Thanks to my experience working for an innovative supplier, I developed knowledges on many solutions in different industries of industrial automation, even though, I’m more skilled in:
   <br>
   <mark>Software architecture</mark> <mark>Motion control</mark> <mark>CNC</mark> <mark>Robotic</mark> <mark>IEC 61131-3</mark>
 
@@ -85,7 +84,7 @@ content:
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Machine is fully <mark>flexible</mark> and <mark>modular</mark>, it groups different can sizes by 2, 3, 4 and more with almost no change over.
-          In addition to magnetic conveyor called <mark>Acopostrak</mark>, I used advanced <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positionning.
+          In addition to magnetic conveyor called <mark>Acopostrak</mark>, I used advanced <mark>motion control</mark> features such as encoder emulation, cam profile and cyclic positioning.
           I was involved at every project stage, pre-sales, prototype, until serial production.
           For this challenging project I had the chance to be in close cooperation with R&D and other services at headquarter.
           
@@ -112,10 +111,10 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Machine cuts and machines aluminium or plastic profiles.
+          Machine cuts and machines aluminum  or plastic profiles.
           <mark>CNC</mark> engine is integrated inside the main CPU that controls more than 30 another numerical axes.
-          Customer could get rid of an expensive and non modular dedicated CNC controller.
-          During this first project as application engineer, I improve my hard skills as well as my soft skills through a very high demanding customer coming from full CNC contoller to an integrated CNC kernel.
+          Customer could get rid of an expensive and non-modular dedicated CNC controller.
+          During this first project as application engineer, I improve my hard skills as well as my soft skills through a very high demanding customer coming from full CNC controller to an integrated CNC kernel.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -129,7 +128,7 @@ content:
             After many years as application engineer, I got promoted as technical office manager.
             I lead up to 6 local application & support engineers in Nantes office.
             My missions are to plan & prioritize technical actions while making sure my team members have enough skills to succeed.
-            Even with this new responsability, I'm still involved technically in complex strategic customer projects.
+            Even with this new responsibility, I'm still involved technically in complex strategic customer projects.
 
       - layout: left
         title: B&R Automation
@@ -153,9 +152,9 @@ content:
         sub_title: Training program
         caption: Sept - Dec 2009 (Eggelsberg, AT)
         description: | # this will include new lines to allow paragraphs
-          B&R Automation is one of the most innovative company in industrial automation.
-          Before joining french subsidiary, I attended an engineering camp among talented young people coming from all over the world.
-          I took the opportunity to perfect my knowledge in industrial automation while improving my english.
+          B&R Automation is one of the most innovative companies in industrial automation.
+          Before joining French subsidiary, I attended an engineering camp among talented young people coming from all over the world.
+          I took the opportunity to perfect my knowledge in industrial automation while improving my English.
       - layout: left
         title: TECNAL S.A.
         link: https://www.tecnal.fr/en/home/
@@ -174,10 +173,10 @@ content:
         caption: 2005 - 2008
         sub_title: MSc in Industrial Automation & Mecatronic
         description: | # this will include new lines to allow paragraphs
-          During my first year at University of Poitiers I deppened my basics skills.
+          During my first year at University of Poitiers I deepened my basics skills.
           At that time, our teachers were mostly coming from research department called [PPrime](https://pprime.fr/en/home-pprime/). 
-          They were really dynamic and enthusiastic about mecatronic and especially skilled in medical robotic.
-          I got really passionate too, that's why I specialized in mecatronic for the two last year of my master degree.
+          They were dynamic and enthusiastic about mecatronic and especially skilled in medical robotic.
+          I got passionate too, that's why I specialized in mechatronic for the two last year of my master's degree.
           Funny fact, I became teacher for a few days of my old teacher.
       - layout: left
         title: University of Lorient
@@ -187,21 +186,21 @@ content:
           I learn basis on almost every domain of the industry as maintenance is a very large topic.
           I did an internship in an Automotive company called PSA Peugeot Citroen.
           My goal was to make preventive maintenance sheets as I was part of TPM service.
-          But everytime I could, I was near machines, looking at the robot asking so many questions.
+          But every time I could, I was near machines, looking at the robot asking so many questions.
       - layout: left
         title: High School A.R. Lesage in Vannes
         caption: 2003
         sub_title: BD In Mechanical Engineering
         description: | # this will include new lines to allow paragraphs
-          During my time at high school, I specialized in mecanics.
-          I had theoretical courses such as mechanical drawing , kinematic, electrical, etc..
+          During my time at high school, I specialized in mechanics.
+          I had theoretical courses such as mechanical drawing, kinematic, electrical, etc..
           And practical courses where I could use conventional milling, CNC and molding machines for the first time.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       I like to spend time with my family and friends, it is a good way to switch off.
       <br>
-      During my personal spare time, I have interests in domotics and IoT that brings me some basis knowledges on several domains like: 
+      During my personal spare time, I have interests in home automation and IoT that brings me some basis knowledges on several technologies like: 
       <br>
       <mark>Linux</mark> <mark>HTML</mark> <mark>Javascript</mark> <mark>Php</mark> <mark>Docker</mark> <mark>MQTT</mark> <mark>Git</mark> <mark>SQL</mark> 
       <br>
@@ -209,7 +208,7 @@ content:
       
       But I'm not staying in front of my computer all the time. I like to go running and sometimes mountain biking.
       As I'm not far from the ocean, SUP is an activity I do like during summer.
-      My passion for music brings me regurlarly to concert and music festival.
+      My passion for music brings me regularly  to concert and music festival.
       I used to be a football player for many years, still passionate but not practicing anymore.
 
 # Footer
