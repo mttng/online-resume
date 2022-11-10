@@ -34,8 +34,8 @@ linkedin_username: mttng
 additional_links:
 - title: Light version
   icon: fas fa-feather
-  url: https://lightcv.tanguym.eu
-- title: Full version
+  url: https://resume.tanguym.eu
+- title: Location
   icon: fas fa-map
   url: https://www.google.fr/maps/place/11+Rue+Saint-Michel,+44260+Savenay/@46.320004,3.2451541,5.63z/data=!4m5!3m4!1s0x4805817a25b76c03:0x5767a922f0c11aae!8m2!3d47.3622972!4d-1.9424031
 # - title: another link
