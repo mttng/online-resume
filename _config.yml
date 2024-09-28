@@ -118,6 +118,17 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+      - layout: left
+        title: KEBA Industrial Automation
+        link: keba.com
+        # link_text: boringcompany.com
+        sub_title: Field application engineer
+        caption: April 2023 - Present (Home office)
+        description: | # this will include new lines to allow paragraphs
+          By joining this company, a new challenge awaits me: to promote and grow an entirely new French subsidiary.
+          I bring my technical and project management experience during pre-sales, prototyping, and production phases.
+            
       - layout: left
         title: B&R Automation
         link: br-automation.com
